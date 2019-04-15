@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pondokit.com/img/thumb/pondok-programmer.png" width="150px">
+    <img src="https://pondokit.com/img/thumb/pondok-programmer.png" width="120px">
 </div>
 
 ### I Wait Your Contribution
